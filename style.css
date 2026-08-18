@@ -73,7 +73,9 @@ header {
 .social-icons .fa-apple {
     color: #000000;
 }
-
-.social-icons .fa-android {
-    color: #3DDC84;
+.android-logo {
+    width: 32px;
+    height: 32px;
+    object-fit: contain;
+    vertical-align: middle;
 }
